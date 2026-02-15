@@ -12,7 +12,7 @@ const mockMessages = [
     id: 1,
     username: 'lin',
     avatar: '/ig.jpg',
-    preview: 'That sounds amazing! 😊',
+    preview: 'HI LOVE CLICK THIS MUNA!',
     timestamp: '1s',
     isRead: true,
     callStatus: null,
