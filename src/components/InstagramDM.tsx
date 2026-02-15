@@ -13,7 +13,7 @@ export const InstagramDM = ({ onBack, onStoryClick }: InstagramDMProps) => {
       animate={{ opacity: 1, scale: 1 }}
       exit={{ opacity: 0, scale: 0.9 }}
       transition={{ duration: 0.3 }}
-      className="h-screen w-full max-w-md mx-auto bg-white flex flex-col font-sans"
+      className="h-[100dvh] w-full max-w-md mx-auto bg-white flex flex-col font-sans"
     >
       {/* Header */}
       <div className="bg-white border-b border-gray-100 px-4 py-3 flex items-center justify-between sticky top-0 z-10">
