@@ -117,7 +117,7 @@ export const TikTokFeed = ({ onInboxClick, onReachLastVideo }: TikTokFeedProps) 
   };
 
   return (
-    <div className="relative h-screen w-full max-w-md mx-auto bg-black overflow-hidden">
+    <div className="relative h-[100dvh] w-full max-w-md mx-auto bg-black overflow-hidden">
       {/* Scrollable Feed Container */}
       <div 
         ref={scrollRef} 
