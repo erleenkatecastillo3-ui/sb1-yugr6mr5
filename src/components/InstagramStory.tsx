@@ -156,8 +156,8 @@ export const InstagramStory = ({ show, onClose }: InstagramStoryProps) => {
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600 p-[2px]">
                 <img
-                  src="https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=100"
-                  alt="sarah.johnson"
+                  src="/ig.jpg"
+                  alt="justleenonlife"
                   className="w-full h-full rounded-full object-cover border border-black"
                 />
               </div>
