@@ -161,7 +161,7 @@ export const InstagramStory = ({ show, onClose }: InstagramStoryProps) => {
                   className="w-full h-full rounded-full object-cover border border-black"
                 />
               </div>
-              <span className="text-white font-semibold text-sm">sarah.johnson</span>
+              <span className="text-white font-semibold text-sm">justleenonlife</span>
               <span className="text-white/70 text-xs">5h</span>
             </div>
             <div className="flex items-center gap-4">
