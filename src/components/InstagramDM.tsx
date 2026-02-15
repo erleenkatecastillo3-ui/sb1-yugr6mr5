@@ -1097,7 +1097,7 @@ export const InstagramDM = ({ onBack, onStoryClick }: InstagramDMProps) => {
             <div className="bg-[#f3f4f6] rounded-[20px] px-4 py-2 max-w-[75%]">
                <p className="text-black text-[15px]"><div className="flex justify-start">
             <div className="bg-[#f3f4f6] rounded-[20px] px-4 py-2 max-w-[75%]">
-               <p className="text-black text-[15px]">😭😭😭😭</p>
+               <p className="text-black text-[15px]">😭😭</p>
             </div>
         </div></p>
             </div>
@@ -1105,7 +1105,7 @@ export const InstagramDM = ({ onBack, onStoryClick }: InstagramDMProps) => {
 
         <div className="flex justify-start">
             <div className="bg-[#f3f4f6] rounded-[20px] px-4 py-2 max-w-[75%]">
-               <p className="text-black text-[15px]">HSUDHAJBAHAJDHZJXHJSHXHSHSUDGDYXHHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAH</p>
+               <p className="text-black text-[15px]">HSUDHAJBAHAJDHZJXHJSHXHSHSUDGDYXHHAHAHAHAHHAHAHAHAH</p>
             </div>
         </div>
 
